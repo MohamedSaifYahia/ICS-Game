@@ -11,5 +11,8 @@ Intro to CS: The Game is an engaging and visually captivating space-themed arcad
 - **Custom Sound Effects and Music:** Integrates background music and sound effects for actions such as attacks, taking damage, and buying items, enhancing the immersive experience.
 - **Visual Effects and Animations:** Utilizes Processing's drawing capabilities to create visually appealing animations and effects for attacks, movements, and background parallax.
 
+## In-Game Snapshot
+![Snapshot][/images/ICSGame.jpeg]
+
 
 
