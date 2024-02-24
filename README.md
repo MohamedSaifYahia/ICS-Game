@@ -12,7 +12,7 @@ Intro to CS: The Game is an engaging and visually captivating space-themed arcad
 - **Visual Effects and Animations:** Utilizes Processing's drawing capabilities to create visually appealing animations and effects for attacks, movements, and background parallax.
 
 ## In-Game Snapshot
-![Snapshot][/images/ICSGame.jpeg]
+![Snapshot](/images/ICSGame.jpeg)
 
 
 
